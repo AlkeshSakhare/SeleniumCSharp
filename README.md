@@ -1,6 +1,10 @@
 # SeleniumCSharp
 
+Softwares Reuired:
 
+     1.Visual Studio Code - https://code.visualstudio.com/
+
+     2..Net SDK - https://dotnet.microsoft.com/download/dotnet/sdk-for-vs-code?utm_source=vs-code&amp;utm_medium=referral&amp;utm_campaign=sdk-install
 
   Step 1: Create Project Folder
 
