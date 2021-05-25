@@ -26,4 +26,6 @@ Softwares Reuired:
       dotnet test     
 
 
+Note: for running new Class Test put  <GenerateProgramFile>false</GenerateProgramFile> under <PropertyGroup> in .csproj file
+
 Reference: https://medium.com/@rakeshmick/running-c-nunit-based-selenium-webdriver-tests-in-visual-studio-code-in-mac-os-osx-8f8360652834
