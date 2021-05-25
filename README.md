@@ -18,5 +18,8 @@
 
       dotnet add package Microsoft.NET.Test.Sdk -- version 15.3.0
 
+ Step 3: run command to execute test
+      dotnet test     
+
 
 Reference: https://medium.com/@rakeshmick/running-c-nunit-based-selenium-webdriver-tests-in-visual-studio-code-in-mac-os-osx-8f8360652834

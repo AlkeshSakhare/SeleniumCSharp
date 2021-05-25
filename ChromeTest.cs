@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
 [TestFixture]
-public class TestProgram
+public class ChromeTest
 {
     private IWebDriver driver;
     [SetUp]
